@@ -20,11 +20,11 @@
     ],
     "dependencies": {
         "@elizaos/core": "workspace:*",
-        "tsup": "8.3.5"
+        "tsup": "8.5.1"
     },
     "devDependencies": {
         "@biomejs/biome": "1.5.3",
-        "tsup": "8.3.5"
+        "tsup": "8.5.1"
     },
     "scripts": {
         "build": "tsup src/index.ts --format esm --no-dts",
