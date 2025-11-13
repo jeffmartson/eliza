@@ -13,7 +13,7 @@
         "@openzeppelin/contracts": "^5.1.0",
         "@types/node": "^22.10.5",
         "solc": "^0.8.28",
-        "tsup": "8.3.5",
+        "tsup": "8.5.1",
         "viem": "2.21.53",
         "ws": "^8.18.0"
     },
