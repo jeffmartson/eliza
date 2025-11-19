@@ -6,7 +6,7 @@
 	"types": "dist/index.d.ts",
 	"dependencies": {
 		"@elizaos/core": "workspace:*",
-		"tsup": "8.3.5",
+		"tsup": "8.5.1",
 		"viem": "2.21.58"
 	},
 	"scripts": {
